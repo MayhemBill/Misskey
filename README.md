@@ -1,3 +1,7 @@
+# Moved to https://github.com/dracula/misskey
+
+
+
 # Dracula for [Misskey](https://misskey-hub.net/en/)
 
 > A dark theme for [Misskey](https://misskey-hub.net/en/).
